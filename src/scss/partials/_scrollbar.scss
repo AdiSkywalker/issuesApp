@@ -1,16 +1,16 @@
 
-::-webkit-scrollbar {
+::scrollbar {
   width: 4px;
   margin-left: 20px;
 }
 
-::-webkit-scrollbar-track {
+::scrollbar-track {
   -webkit-border-radius: 10px;
   border-radius: 10px;
   background-color: $background_form;
 }
 
-::-webkit-scrollbar-thumb {
+::scrollbar-thumb {
   -webkit-border-radius: 10px;
   border-radius: 10px;
   background-color: rgb(224,224,224);
